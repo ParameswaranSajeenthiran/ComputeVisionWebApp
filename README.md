@@ -1,9 +1,11 @@
 # ComputeVisionWebApp
-ComputeVisionWebApp
+A Computer Vision web App  deployed in heroku 
+## Technologies used
+* Django
+* Javascript 
+* Mediapipe
 
 visit webApp at https://computer-vision-sajeenthiran.herokuapp.com/
-
-
 
 ## Face Meash
 
