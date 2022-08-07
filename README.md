@@ -7,7 +7,7 @@ A Computer Vision web App  deployed in heroku
 
 visit webApp at https://computer-vision-sajeenthiran.herokuapp.com/
 
-## Face Meash
+## Face Mesh
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/77486691/183256161-ba1cd353-0389-4c53-9c06-a9e3e4cc187e.gif)
 
